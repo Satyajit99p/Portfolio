@@ -1,0 +1,117 @@
+
+h1{
+    font-family: "Montserrat";
+    font-weight: 700;
+}
+h2{
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+h3{
+    font-family: "Ubuntu";
+    font-weight: 700;
+}
+p{
+    font-family: "Ubuntu";
+    font-weight: 400;
+}
+/* navigation-title */
+#title-bar{
+    background-color:rgb(0, 0, 0);
+    height: 80px;
+    padding: 0% 3% 0% 3%;
+}
+
+.navbar{
+    padding: 0 2% ;
+    opacity: 100%;
+}
+
+.nav-item{
+    padding : 0 8px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+/* About */
+
+#about{
+    text-align: justify;
+    color: whitesmoke;
+    padding: 5% 10%;
+    margin: 0%;
+    background-color: rgb(10, 10, 10);
+}
+
+.about-me{
+    padding: 0% 0% 3% 0%;
+}
+
+/* Hobbies */
+
+#hobbies{
+    text-align: center;
+    color: whitesmoke;
+    padding: 5% 10%;
+    background-color: rgb(20, 20, 20);
+}
+
+.hobby-image
+{
+    width: 200px;
+    height: 200px;
+}
+.carousel-control-prev
+{
+    background-color: rgb(20, 20, 20);
+}
+.carousel-control-next
+{
+    background-color: rgb(20, 20, 20);
+}
+
+#contact{
+    text-align: center;
+    color: whitesmoke;
+    padding: 5% 10%;
+    background-color: rgb(30, 30, 30);
+}
+
+/* Education */
+
+#education-title{
+    margin: 0;
+    background-color: rgb(50, 50, 50);
+    color: whitesmoke;
+    padding : 5px 30px;
+}
+
+#education{
+    margin: 0%;
+    padding: 5px 30px;
+    background-color:rgb(65, 62, 62) ;
+    color: whitesmoke;
+}
+
+.ins-img{
+    border-radius: 7%;
+    height: 200px;
+    width: 300px;
+    padding: 2px 5px;
+    margin: 11.8px;
+}
+.ins-info{
+    padding: 0px 5px 2px 5px;
+    margin: 11.8px;
+    color: whitesmoke;
+}
+
