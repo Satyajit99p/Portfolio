@@ -1,5 +1,6 @@
 
 h1{
+    margin: 0%;
     font-family: "Montserrat";
     font-weight: 700;
 }
@@ -14,6 +15,10 @@ h3{
 p{
     font-family: "Ubuntu";
     font-weight: 400;
+}
+li{
+    font-family: "Ubuntu";
+    font-weight:bold;
 }
 /* navigation-title */
 #title-bar{
@@ -113,5 +118,58 @@ p{
     padding: 0px 5px 2px 5px;
     margin: 11.8px;
     color: whitesmoke;
+}
+
+/* Experience */
+#experience-title{
+    margin: 0px;
+    background-color: rgb(50, 50, 50);
+    color: whitesmoke;
+    padding : 5px 30px;
+}
+
+#experience{
+    margin: 0%;
+    padding: 6px 30px;
+    background-color:rgb(65, 62, 62) ;
+    color: whitesmoke;
+}
+.exp-container{
+    padding: 2% 4%;
+}
+
+.SAM{
+    padding: 2% 4%;
+    background-color: rgb(134, 230, 233);
+    color: black;
+}
+
+.ETG{
+    padding: 2% 4%;
+    background-color: rgb(102, 8, 190);
+    color: white;
+}
+
+/* Projects */
+
+#project-title{
+    margin: 0px;
+    background-color: rgb(50, 50, 50);
+    color: whitesmoke;
+    padding : 5px 30px;
+}
+
+#project-cards{
+    margin: 0%;
+    padding: 6px 30px;
+    background-color:rgb(65, 62, 62) ;
+}
+.row{
+    margin: 10px;
+}
+
+.project-card{
+    padding: 2% 3%;
+
 }
 
