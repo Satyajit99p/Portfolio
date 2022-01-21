@@ -173,3 +173,33 @@ li{
 
 }
 
+/* Archive */
+
+#archive-title{
+    margin: 0px;
+    background-color: rgb(50, 50, 50);
+    color: whitesmoke;
+    padding : 5px 30px;
+}
+
+#archive-cards{
+    margin: 0%;
+    padding: 6px 30px;
+    background-color:rgb(65, 62, 62) ;
+}
+
+.archive-card{
+    padding: 2% 3%;
+}
+
+.archive-row{
+    margin-bottom: 95px;
+    margin-top: 95px;
+}
+
+.archive-footer{
+    margin: 0px;
+    background-color: rgb(40, 40, 40);
+    color: whitesmoke;
+    padding : 10px 30px;
+}
