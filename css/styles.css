@@ -102,7 +102,7 @@ li{
 
 #education{
     margin: 0%;
-    padding: 5px 30px;
+    padding: 9px 30px;
     background-color:rgb(65, 62, 62) ;
     color: whitesmoke;
 }
@@ -130,12 +130,12 @@ li{
 
 #experience{
     margin: 0%;
-    padding: 6px 30px;
+    padding: 5px 30px;
     background-color:rgb(65, 62, 62) ;
     color: whitesmoke;
 }
 .exp-container{
-    padding: 2% 4%;
+    padding: 1.5% 4%;
 }
 
 .SAM{
